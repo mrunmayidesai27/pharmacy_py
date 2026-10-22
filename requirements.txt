@@ -1,0 +1,2 @@
+# No third-party packages required.
+# Uses only the Python 3 standard library (tkinter, sqlite3, csv, datetime).
